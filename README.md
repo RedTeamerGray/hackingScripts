@@ -20,14 +20,14 @@ pwd Displays the current directory
 read Reads a line from standard input
 readonly Declares as variable as read-only
 set Lists all variables
-shift Moves the script's input parameters to the left, dropping the first
-parameter (useful for consuming all parameters one at a time)
+shift Moves the script's input parameters to the left, dropping the first parameter
 test Evaluates arguments
 [[ Performs a conditional test
 times Prints the user and system times
-trap Traps a signal so the script can handle it (untrapped signals terminate
-the script)
+trap Traps a signal so the script can handle
 type Displays how each argument would be interpreted as a command
 umask Changes the default permissions for a new file
 unset Deletes values from a variable or function
-wait Waits for a background process to complete```
+wait Waits for a background process to complete
+
+```
